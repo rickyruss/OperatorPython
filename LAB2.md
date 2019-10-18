@@ -1,49 +1,33 @@
 # Lab 2
 
 ## Operator pada Python
-Operator adalah simbol khusus pada Python yang merupakan perhitungan aritmatika atau logika.
+- Operator adalah simbol khusus pada Python yang merupakan perhitungan aritmatika atau logika.
 Nilai yang dioperasikan operator disebut operand.
 
 ## Operator Aritmatika Seperti:
-• Operator Simbol 1 Penjumlahan + 2 Pengurangan - 3 Perkalian * 4 Pembagian / 5 Sisa bagi % 6 Pemangkatan **
+- Operator Simbol 1 Penjumlahan + 2 Pengurangan - 3 Perkalian * 4 Pembagian / 5 Sisa bagi % 6 Pemangkatan **
 
 ## Tampilan Syntax Yang Salah:
-• a=input("masukkan nilai a:")
-
-• b=input("masukkan nilai b:")
-
-• print("variable a=" ,a)
-
-• print("variable b=" ,b)
-
-• print("hasil penggabungan {1}&{0}=%d" .format(a,b) %(a+b))
-
-• a=int(a)
-
-• b=int(b)
-
-• print("hasil penjumlahan {1}+{0}=%d" .format(a,b) %(a+b)) 
-
-• print("hasil pembagian {1}/{0}=%f" .format(a,b) %(a/b))
+- a=input("masukkan nilai a:")
+- b=input("masukkan nilai b:")
+- print("variable a=" ,a)
+- print("variable b=" ,b)
+- print("hasil penggabungan {1}&{0}=%d" .format(a,b) %(a+b))
+- a=int(a)
+- b=int(b)
+- print("hasil penjumlahan {1}+{0}=%d" .format(a,b) %(a+b)) 
+- print("hasil pembagian {1}/{0}=%f" .format(a,b) %(a/b))
 
 ## Tampilan Syntax Yang Benar:
-• a=input("masukkan nilai a:")
-
-• b=input("masukkan nilai b:")
-
-• print("variable a=" ,a)
-
-• print("variable b=" ,b)
-
-• print("hasil penggabungan {0}&{1}=%s" .format(a,b) %(a+b))
-
-• a=int(a)
-
-• b=int(b)
-
-• print("hasil penjumlahan {0}+{1}=%d" .format(a,b) %(a+b))
-
-• print("hasil pembagian {0}/{1}=%d" .format(a,b) %(a/b))
+- a=input("masukkan nilai a:")
+- b=input("masukkan nilai b:")
+- print("variable a=" ,a)
+- print("variable b=" ,b)
+- print("hasil penggabungan {0}&{1}=%s" .format(a,b) %(a+b))
+- a=int(a)
+- b=int(b)
+- print("hasil penjumlahan {0}+{1}=%d" .format(a,b) %(a+b))
+- print("hasil pembagian {0}/{1}=%d" .format(a,b) %(a/b))
 
 
 ## Kenapa Bisa Salah?
