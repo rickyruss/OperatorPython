@@ -9,21 +9,13 @@ Nilai yang dioperasikan operator disebut operand.
 
 ## Tampilan Syntax Yang Salah:
 • a=input("masukkan nilai a:")
-
 • b=input("masukkan nilai b:")
-
 • print("variable a=" ,a)
-
 • print("variable b=" ,b)
-
 • print("hasil penggabungan {1}&{0}=%d" .format(a,b) %(a+b))
-
 • a=int(a)
-
 • b=int(b)
-
-• print("hasil penjumlahan {1}+{0}=%d" .format(a,b) %(a+b))
-
+• print("hasil penjumlahan {1}+{0}=%d" .format(a,b) %(a+b)) 
 • print("hasil pembagian {1}/{0}=%f" .format(a,b) %(a/b))
 
 ## Tampilan Syntax Yang Benar:
