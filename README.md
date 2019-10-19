@@ -4,9 +4,6 @@
 - Operator adalah simbol khusus pada Python yang merupakan perhitungan aritmatika atau logika.
 Nilai yang dioperasikan operator disebut operand.
 
-## Operator Aritmatika Seperti:
-- Operator Simbol 1 Penjumlahan + 2 Pengurangan - 3 Perkalian * 4 Pembagian / 5 Sisa bagi % 6 Pemangkatan **
-
 ## Tampilan Syntax Yang Salah:
 - a=input("masukkan nilai a:")
 - b=input("masukkan nilai b:")
